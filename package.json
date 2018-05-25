@@ -1,0 +1,17 @@
+{
+  "name": "testWSServer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "wsserver.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^5.2.0",
+    "socket.io": "^2.1.1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
